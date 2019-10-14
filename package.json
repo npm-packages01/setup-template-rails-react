@@ -1,0 +1,18 @@
+{
+  "name": "setup-template-react",
+  "version": "1.0.7",
+  "description": "react project template package",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "npx setup-template"
+  },
+  "keywords": [
+    "react",
+    "template"
+  ],
+  "author": "SoraKumo",
+  "license": "MIT",
+  "dependencies": {
+    "setup-template": "0.0.3"
+  }
+}

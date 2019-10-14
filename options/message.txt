@@ -1,0 +1,6 @@
+最初に npm i を実行して、設定済みのパッケージをインストールしてください
+その後、以下のコマンドが利用できます
+
+・起動   npm start
+・ビルド npm run build
+・監視   npm run watch
