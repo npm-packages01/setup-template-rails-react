@@ -1,18 +1,28 @@
 {
-  "name": "setup-template-react",
-  "version": "1.0.7",
-  "description": "react project template package",
+  "name": "setup-template-rails-react",
+  "version": "1.0.1",
+  "description": "rails & react project template package",
   "main": "index.js",
   "scripts": {
     "postinstall": "npx setup-template"
   },
   "keywords": [
     "react",
+    "rails",
     "template"
   ],
   "author": "SoraKumo",
   "license": "MIT",
   "dependencies": {
     "setup-template": "0.0.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm-packages01/setup-template-rails-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/npm-packages01/setup-template-rails-react/issues"
+  },
+  "homepage": "https://ttis.croud.jp/"
 }

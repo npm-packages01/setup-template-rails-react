@@ -24,18 +24,9 @@
       "tsx":true
     }
   },
-  "settings": {
-    "node": {
-      "tryExtensions": [
-        ".ts",
-        ".tsx",
-        ".js",
-        ".json",
-        ".node"
-      ]
-    }
-  },
   "rules": {
-    "@typescript-eslint/explicit-function-return-type": "off"
+    "@typescript-eslint/explicit-function-return-type": "off",
+    "@typescript-eslint/no-non-null-assertion":"off",
+    "react-hooks/exhaustive-deps":"off"
   }
 }

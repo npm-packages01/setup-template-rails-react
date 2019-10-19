@@ -1,5 +1,5 @@
-import React from "react";
 import * as ReactDOM from "react-dom";
+import React from "react";
 
 function App() {
   return <>今日は世界！</>;
